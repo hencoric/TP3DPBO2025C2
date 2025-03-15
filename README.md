@@ -64,6 +64,6 @@ c. Komputer memiliki Harddrive
 
 6. **Program selesai**]
 
-# DOKUMENTASI (C++ DAN PYTHON SAMA OUTPYNTA)
+# DOKUMENTASI (C++ DAN PYTHON SAMA OUTPUTNYA)
 
 ![PY TP3](https://github.com/user-attachments/assets/17fbcce4-c0d0-4c1f-8ecc-00c9995a80ff)
