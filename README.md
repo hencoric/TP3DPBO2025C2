@@ -63,5 +63,3 @@ c. Komputer memiliki Harddrive
    - Jumlah rack  
 
 6. **Program selesai**
-
-### Java ga mendukung multiple :(
