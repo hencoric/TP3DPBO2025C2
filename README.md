@@ -62,4 +62,8 @@ c. Komputer memiliki Harddrive
    - Detail GPU  
    - Jumlah rack  
 
-6. **Program selesai**
+6. **Program selesai**]
+
+# DOKUMENTASI (C++ DAN PYTHON SAMA OUTPYNTA)
+
+![PY TP3](https://github.com/user-attachments/assets/17fbcce4-c0d0-4c1f-8ecc-00c9995a80ff)
