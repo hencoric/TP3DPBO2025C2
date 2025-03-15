@@ -6,7 +6,7 @@ Saya Marco Henrik Abineno dengan NIM 2301093 mengerjakan Tugas Praktikum 3 dalam
 
 ## Diagram
 
-![TP3 drawio](https://github.com/user-attachments/assets/14ef6c9c-29f8-4a36-aacf-4cc2560fdbf0)
+![TP3REAL drawio](https://github.com/user-attachments/assets/1bc63b5d-c2c6-4d57-ae4c-8fbbce6ee22d)
 
 ## Konsep OOP yang digunakan
 
