@@ -64,3 +64,4 @@ c. Komputer memiliki Harddrive
 
 6. **Program selesai**
 
+### Java ga mendukung multiple :(
